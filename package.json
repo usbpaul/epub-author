@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "epub-author:toggle"
+    "atom-workspace": "epub-author:toggle",
+    "atom-workspace": "epub-author:convert"
   },
   "repository": "https://github.com/usbpaul/epub-author",
   "license": "MIT",

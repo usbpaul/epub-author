@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "epub-author",
+          "label": "EPUB Author",
           "submenu": [
             {
               "label": "Toggle",
