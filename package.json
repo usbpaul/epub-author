@@ -2,13 +2,13 @@
   "name": "epub-author",
   "main": "./lib/epub-author",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "EPUB creating and editing tool",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "epub-author:toggle"
   },
-  "repository": "https://github.com/atom/epub-author",
+  "repository": "https://github.com/usbpaul/epub-author",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
